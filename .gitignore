@@ -1,0 +1,13 @@
+
+# RStudio
+.Rproj.user
+.Rhistory
+.RData
+.Rprofile
+*.Rproj
+data/
+tidy.txt
+counts.txt
+combined.txt
+UCI HAR Dataset/
+.idea
